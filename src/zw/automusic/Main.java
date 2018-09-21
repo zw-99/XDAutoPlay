@@ -31,7 +31,7 @@ public class Main {
 		
 		try {
 			//¿ªÊ¼²¥·Å
-			for(int i = 0; i < 5; i++) {
+			for(int i = 0; i < 2; i++) {
 				xdSound.playSound();
 			}
 			
